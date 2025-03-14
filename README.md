@@ -1,3 +1,3 @@
-# BE-git_study
+# BE_study1
 
 백엔드 스터디 1팀 레포입니다.
